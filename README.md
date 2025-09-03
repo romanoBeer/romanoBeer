@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Romano Beer, I'm a experienced web developer with a strong background in C#, HTML, and CSS, and a proven track record of delivering high-quality web development projects. Skilled in managing servers for websites, ensuring their security, performance, and availability. Proficient in various content management systems and e-commerce platforms. Currently employed at OM & Barker, providing web development services to clients, and committed to staying up to date with the latest web development technologies and trends.
+My name is Romano Beer, I'm a experienced web developer with a strong background in C#, HTML, and CSS, and a proven track record of delivering high-quality web development projects. Skilled in managing servers for websites, ensuring their security, performance, and availability. Proficient in various content management systems and e-commerce platforms. Providing web development services to clients, and committed to staying up to date with the latest web development technologies and trends.
 
 
 # 💻 Tech Stack:
