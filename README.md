@@ -12,7 +12,7 @@
 
 Hey, I'm **Romano** — a web developer based in **South Africa 🇿🇦** who builds clean, functional web experiences and runs a self-hosted homelab because renting servers is for quitters.
 
-- 🔭 Currently working on projects at **[beerr.co.za](https://beerr.co.za)**
+- 🔭 Currently working on projects at **[Cloud-Vision](https://cloud-vision.com)**
 - 🌐 Full-stack experience: from database to deployment
 - 🏠 Self-hosting fanboy: Nginx, Docker, Pi-hole, Jellyfin, Plex & more
 - ⚡ I like solving real problems — not just writing code for the sake of it
