@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Romano%20Beer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Self-Hoster%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6a2386&height=200&section=header&text=Romano%20Beer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Self-Hoster%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Self-Hosting+Enthusiast+%F0%9F%8F%A0;Building+things+that+work+beautifully)](https://git.io/typing-svg)
 
@@ -88,5 +88,5 @@ Hey, I'm **Romano** — a web developer based in **South Africa 🇿🇦** who b
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:6a2386&height=100&section=footer" width="100%"/>
 </div>
