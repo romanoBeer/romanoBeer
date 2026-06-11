@@ -72,10 +72,6 @@ Hey, I'm **Romano** — a web developer based in **South Africa 🇿🇦** who b
 
 </div>
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=romanoBeer&theme=github_dark&hide_border=true" height="165"/>
-</div>
-
 ---
 
 ## 🌐 Connect
