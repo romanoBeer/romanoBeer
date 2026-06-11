@@ -58,7 +58,7 @@ Hey, I'm **Romano** — a web developer based in **South Africa 🇿🇦** who b
 | [📦 usedCarsFeed](https://github.com/romanoBeer/usedCarsFeed) | Used car listing feed integration | JavaScript |
 | [📱 phoneTracker](https://github.com/romanoBeer/phoneTracker) | Phone tracking utility | Python |
 | [🌐 universalWebsiteUpChecker](https://github.com/romanoBeer/universalWebsiteUpChecker) | Website uptime monitoring tool | HTML / JS |
-| [💰 WindowsFormsBudgetApp](https://github.com/romanoBeer/WindowsFormsBudgetApp) | Desktop budget management app | C# / .NET |
+| [🖥️ sim_kiosk_manager](https://github.com/romanoBeer/sim_kiosk_manager) | SIM kiosk management system | Tauri / React / Vite |
 | [🎯 javascript30](https://github.com/romanoBeer/javascript30) | 30 vanilla JS challenges | HTML / JS |
 
 ---
@@ -70,6 +70,10 @@ Hey, I'm **Romano** — a web developer based in **South Africa 🇿🇦** who b
 <img src="https://github-readme-stats.vercel.app/api?username=romanoBeer&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanoBeer&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="165"/>
 
+</div>
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=romanoBeer&theme=github_dark&hide_border=true" height="165"/>
 </div>
 
 ---
