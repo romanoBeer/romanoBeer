@@ -88,5 +88,5 @@ Hey, I'm **Romano** — a web developer based in **South Africa 🇿🇦** who b
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a2386,100:6a2386&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6a2386&height=100&section=footer" width="100%"/>
 </div>
