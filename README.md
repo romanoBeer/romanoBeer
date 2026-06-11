@@ -66,16 +66,9 @@ Hey, I'm **Romano** — a web developer based in **South Africa 🇿🇦** who b
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=romanoBeer&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanoBeer&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="165"/>
 
-</div>
-
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=romanoBeer&theme=github_dark&hide_border=true" height="165"/>
-</div>
 
 ---
 
